@@ -1,10 +1,10 @@
 import { theme } from '@/theme'
 import { View, Text, StyleSheet } from 'react-native'
 
-export default function Index() {
+export default function Messages() {
     return(
         <View style={Styles.container}>
-            <Text style={Styles.text}>Teste</Text>
+            <Text style={Styles.text}>Messages</Text>
         </View>
     )
       

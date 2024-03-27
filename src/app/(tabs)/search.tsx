@@ -1,10 +1,10 @@
 import { theme } from '@/theme'
 import { View, Text, StyleSheet } from 'react-native'
 
-export default function Index() {
+export default function Search() {
     return(
         <View style={Styles.container}>
-            <Text style={Styles.text}>Teste</Text>
+            <Text style={Styles.text}>Search</Text>
         </View>
     )
       
